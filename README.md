@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
-
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -114,7 +112,7 @@ As shown by the first plot "Without replacement" the codebook collapses to a sin
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Attribution-NonCommercial-ShareAlike 4.0 International License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
