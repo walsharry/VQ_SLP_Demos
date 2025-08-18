@@ -25,6 +25,9 @@ By applying Vector Quantisation (VQ) to sign language data, we first learn a cod
 
 ![system_overview]
 
+# Publicly Released Code
+
+📌 Companion codebase: [Sign VQ Transformer](https://github.com/walsharry/Sign-VQ-Transformer)
 
 # Demos
 
